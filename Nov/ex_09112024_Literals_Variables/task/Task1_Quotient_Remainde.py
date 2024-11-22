@@ -1,4 +1,4 @@
-# Task 1 for the Today
+# Task for the Today
 # Take a 2 input from the user
 # Print the Quotient and Remainder
 # 15 ->  num1

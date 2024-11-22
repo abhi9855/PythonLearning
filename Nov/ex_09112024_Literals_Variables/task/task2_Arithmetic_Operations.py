@@ -1,6 +1,9 @@
-#Task
+# Task for the Today
 # Take a 3 input from the user
-# perform the sum, sub, mul and div with given input numbers
+# perform the sub, sub, mul and div
+
+# Logic Building Formula
+
 number1=int(input("Enter the number1"))
 number2=int(input("Enter the number2"))
 number3=int(input("Enter the number3"))
