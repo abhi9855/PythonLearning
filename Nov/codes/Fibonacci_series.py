@@ -17,5 +17,5 @@ if count>0:
 
         count-=1
 else:
-    print("Count less than 1, Please five a no. greater than 1")
+    print("Count less than 1, Please give a no. greater than 1")
 
